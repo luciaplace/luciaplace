@@ -1,0 +1,5 @@
+John,john@gmail.com,010-2389-2899
+Chris,chris@acme.com,010-3278-2891
+John,john_doh@gmail.com,010-2122-2899
+Alfred,alfred@yahoo.com,010-2891-2897
+Bach,bach@yahoo.com,010-2328-1829
