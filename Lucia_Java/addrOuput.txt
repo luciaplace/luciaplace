@@ -1,0 +1,4 @@
+Address [name=Alfred, email=alfred@yahoo.com, tel=010-2891-2897]
+Address [name=Bach, email=bach@yahoo.com, tel=010-2328-1829]
+Address [name=Chris, email=chris@acme.com, tel=010-3278-2891]
+Address [name=John, email=john@gmail.com, tel=010-2389-2899]
