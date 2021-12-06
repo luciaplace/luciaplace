@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/*import 하는 경우 아래와 같이 @ import 부분을 복붙하기.*/
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Sunflower:wght@700&display=swap');
+
+
+div{font-family: 'Black Han Sans', sans-serif;}
+/* div의 target id 를 가진 데이터의 폰트를 바꾸는 경우 div#target{}을 사용 하여 위와같이 폰트 적용이 가능하다.*/

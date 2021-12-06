@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>연습문제</title><!-- 탭에 표시되는 이름 -->
+</head>
+<body>
+<h1>개발자 지원서</h1><!-- 제목 -->
+<p>HTML, CSS, Javascript에 대한 기술적 이해와 경험이 있는분을 찾습니다.</p>
+<hr><!-- 줄넣기 -->
+<form>
+<p><b>개인정보</b></p><!-- <h4>정도로 맞춰도 괜찬을듯 -->
+<ul>
+<li>
+	<label for = "user_name">이름</label>
+	<input type ="text" id="user_name" placeholder="공백없이 입력하시오">
+</li>
+<li>
+	<label for ="tel">연락</label>
+	<select name="tel">
+	<option value ="010">010</option>
+	<option value = "011">011</option>
+	<option value="017">017</option>
+	</select>
+	<input type ="text" id="tel">-<input type ="text" id="tel">
+</li>
+<li>
+	<label for ="gender">남</label>
+	<input type ="radio" name="gender" id="male">
+	<label for ="gender">여</label>
+	<input type="radio" name="gender" id="female">
+</li>
+</ul>
+
+<p><b>지원분야</b></p>
+<ul>	
+	<li>
+	<input type="checkbox" name = "웹 퍼블리싱" id="j1">
+	<label for = "j1">웹 퍼블리싱</label>
+	</li>
+	<li>
+	<input type="checkbox" name = "웹 어플리케이션 개발" id="j3">
+	<label for = "j2">웹 어플리케이션 개발</label>
+	</li>
+	<li>
+	<input type="checkbox" name = "개발 환경 개선" id="j3">
+	<label for = "j3">개발 환경 개선</label>
+	</li>
+</ul>
+
+<p><b>지원동기</b><p>
+<textarea rows="5" cols="60" placeholder="지원동기를 간략히 적어주세요."></textarea>
+<br>
+<input type="submit" value="접수하기">
+<input type="reset" value="다시쓰기">
+</form>
+</body>
+</html>
