@@ -14,25 +14,25 @@
 
 * 사용 기술
 
-Springboot, Apache Tomcat 9.0, Mybatis
-Java, Ajax, Jquery, Googledrive, MVC Pttern
-Oracle 19g DataBase
+  Springboot, Apache Tomcat 9.0, Mybatis
+  Java, Ajax, Jquery, Googledrive, MVC Pttern
+  HTML, CSS, Gradle, Oracle 19g DataBase
 
-*개발 환경
+* 개발 환경
 
-MAC OS
-ECLIPSE
-ORACLE CLOUD DATABASE
+  MAC OS
+  ECLIPSE
+  ORACLE CLOUD DATABASE
 
-*담당 구현 파트
+* 담당 구현 파트
 
-프로젝트 개발환경 구축, 설계 참여
+  프로젝트 개발환경 구축, 설계 참여
 
-DB 모델링
+  DB 모델링
 
-펫케어 페이지 구현 (리스트, 랭킹리스트, 글쓰기, 글수정, 댓글, 상세페이지, 페이징, 검색)
+  펫케어 페이지 구현 (리스트, 랭킹리스트, 글쓰기, 글수정, 댓글, 상세페이지, 페이징, 검색)
 
-오늘 뭐먹지? 페이지 구현 (리스트, 랭킹리스트, 별점등록, 별점평균, 댓글, 상세페이지, 페이징, 검색)
+  오늘 뭐먹지? 페이지 구현 (리스트, 랭킹리스트, 별점등록, 별점평균, 댓글, 상세페이지, 페이징, 검색)
 
 
 
