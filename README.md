@@ -1,10 +1,10 @@
-# Final Team Project _ 혼사모 
+# 🏡Final Team Project _ 혼사모 
 
 솔데스크 IT 아카데미 수료 팀 프로젝트 혼자사는 당신을 위한 모든것 '혼사모' 웹사이트 입니다. 
 
 
 
-# Description
+# ✔️Description
 
 * 개발 기간: 2022.03.01 ~ 2022.03.28 (약 4주)
 
