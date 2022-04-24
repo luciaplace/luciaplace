@@ -2,8 +2,38 @@
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/95472522/164970843-32e066ab-93c7-4e2b-a569-e3b40017d87b.png">
 
-### 제작동기
-1인가구 증가에 따라 혼자사는 사람들을 위한 편의기능을 한 사이트에서 모두 해결할 수 있는 사이트가 없는 불편함을 해소하기 위하여 제작하였으며, 
-1인가구 팀원들의 의견을 적극 수용하여 반영함. 
+솔데스크 IT 아카데미 수료 팀 프로젝트 혼자사는 당신을 위한 모든것 '혼사모' 웹사이트 입니다. 
+
+
 ---
-###
+# Description
+
+*개발 기간: 2022.03.01 ~ 2022.03.28 (약 4주)
+
+*참여 인원: Backend 6명
+
+*사용 기술
+
+Springboot, Apache Tomcat 9.0, Mybatis
+Java, Ajax, Jquery, Googledrive, MVC Pttern
+Oracle 19g DataBase
+
+*개발 환경
+
+MAC OS
+ECLIPSE
+ORACLE CLOUD DATABASE
+
+*담당 구현 파트
+
+프로젝트 개발환경 구축, 설계 참여
+
+DB 모델링
+
+펫케어 페이지 구현 (리스트, 랭킹리스트, 글쓰기, 글수정, 댓글, 상세페이지, 페이징, 검색)
+
+오늘 뭐먹지? 페이지 구현 (리스트, 랭킹리스트, 별점등록, 별점평균, 댓글, 상세페이지, 페이징, 검색)
+
+
+
+
