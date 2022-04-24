@@ -8,11 +8,11 @@
 ---
 # Description
 
-*개발 기간: 2022.03.01 ~ 2022.03.28 (약 4주)
+* 개발 기간: 2022.03.01 ~ 2022.03.28 (약 4주)
 
-*참여 인원: Backend 6명
+* 참여 인원: Backend 6명
 
-*사용 기술
+* 사용 기술
 
 Springboot, Apache Tomcat 9.0, Mybatis
 Java, Ajax, Jquery, Googledrive, MVC Pttern
