@@ -18,8 +18,8 @@
 
 * 개발 환경
 
-  MAC OS
-  ECLIPSE
+  MAC OS,
+  ECLIPSE,
   ORACLE CLOUD DATABASE
 
 * 담당 구현 파트
