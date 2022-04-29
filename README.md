@@ -64,7 +64,7 @@
 
 * 오늘 뭐먹지? - 메인
 
-![foodreview_main](https://user-images.githubusercontent.com/95472522/165871727-a9be4ac8-864f-4d4f-9e8d-f89ca91f648a.gif)
+  ![foodreview_main](https://user-images.githubusercontent.com/95472522/165871727-a9be4ac8-864f-4d4f-9e8d-f89ca91f648a.gif)
 
   * 우리동네 BEST5 게시글  : 게시물 중 제일 높은 별점평균의 5개의 게시물의 사진과 제목을 보여줌 (실시간 반영)
   
@@ -73,7 +73,7 @@
 
 * 오늘 뭐먹지? - 상세페이지
 
-![food_review](https://user-images.githubusercontent.com/95472522/165872109-2f684934-b496-4e5a-b911-b3f60f4090ac.gif)
+  ![food_review](https://user-images.githubusercontent.com/95472522/165872109-2f684934-b496-4e5a-b911-b3f60f4090ac.gif)
 
   * 글쓰기 폼에서 입력한 상세 내용 출력
 
