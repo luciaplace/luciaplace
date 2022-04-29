@@ -32,6 +32,7 @@
 
   오늘 뭐먹지? 페이지 구현 (리스트, 랭킹리스트, 별점등록, 별점평균, 댓글, 상세페이지, 페이징, 검색)
   
+  
   # 📋 DB모델링
   
   <img width="910" alt="image" src="https://user-images.githubusercontent.com/95472522/165872377-bfe23f34-29a1-44a0-bf36-cd3a94ac6c35.png">
@@ -39,6 +40,7 @@
   총 23개의 테이블로 구성됨.
   
   각 테이블은 PK, FK를 활용하여 모델링하였으며, PK 와 FK 설정 테이블 간의 ON DELETE CASCADE 활성화
+  
   
   # 📋 담당 파트 View
   
