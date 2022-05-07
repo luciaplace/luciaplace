@@ -4,6 +4,7 @@
 
 
 
+
 # 📋Description
 
 * 개발 기간: 2022.03.01 ~ 2022.03.28 (약 4주)
@@ -33,6 +34,7 @@
   오늘 뭐먹지? 페이지 구현 (리스트, 랭킹리스트, 별점등록, 별점평균, 댓글, 상세페이지, 페이징, 검색)
   
   
+  
   # 📋 DB모델링
   
   <img width="910" alt="image" src="https://user-images.githubusercontent.com/95472522/165872377-bfe23f34-29a1-44a0-bf36-cd3a94ac6c35.png">
@@ -40,6 +42,7 @@
   총 23개의 테이블로 구성됨.
   
   각 테이블은 PK, FK를 활용하여 모델링하였으며, PK 와 FK 설정 테이블 간의 ON DELETE CASCADE 활성화
+  
   
   
   # 📋 담당 파트 View
@@ -53,6 +56,7 @@
   * 게시판 : 검색 기능, 페이징 처리
   
 
+
 * 펫케어 페이지 - 상세
 
   ![petcare_comment](https://user-images.githubusercontent.com/95472522/165870662-3d1a008d-d739-422c-9253-6ab33b3c199f.gif)
@@ -62,6 +66,7 @@
   * 댓글 작성자만 댓글 수정, 삭제가 가능하게 처리
 
 
+
 * 오늘 뭐먹지? - 메인
 
   ![foodreview_main](https://user-images.githubusercontent.com/95472522/165871727-a9be4ac8-864f-4d4f-9e8d-f89ca91f648a.gif)
@@ -69,6 +74,7 @@
   * 우리동네 BEST5 게시글  : 게시물 중 제일 높은 별점평균의 5개의 게시물의 사진과 제목을 보여줌 (실시간 반영)
   
   * 게시판 : 검색 기능, 페이징 처리
+
 
 
 * 오늘 뭐먹지? - 상세페이지
